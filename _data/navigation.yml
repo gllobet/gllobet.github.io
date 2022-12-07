@@ -1,0 +1,7 @@
+main:
+  - title: "About Me"
+    url: /
+  - title: "Publications"
+    url: /publications.html
+  - title: "Working Papers"
+    url: /papers.html
