@@ -54,9 +54,9 @@ author:
     - label: "Github"
       icon: "fab fa-github"
       url: "https://gllobet.github.io"
-    - label: "Mastodon"
-      icon: "fab fa-mastodon"
-      url: "https://econtwitter.net/@gllobet"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/gllobet.bsky.social"
 
 
 # Build settings
