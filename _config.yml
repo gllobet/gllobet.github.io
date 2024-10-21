@@ -55,7 +55,7 @@ author:
       icon: "fab fa-github"
       url: "https://gllobet.github.io"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/gllobet.bsky.social"
 
 
@@ -100,7 +100,7 @@ footer:
       icon: "fab fa-github"
       url: "https://gllobet.github.io"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/gllobet.bsky.social"
 
 atom_feed:
