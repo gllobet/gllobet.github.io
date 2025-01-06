@@ -45,12 +45,9 @@ author:
   bio      : "I am professor of economics at CEMFI."
   location : "Madrid, Spain"
   links:
-    - label: "e-mail" 
+    - label: "E-mail" 
       icon: "fas fa-envelope-square"
       url: "mailto:llobet@cemfi.es"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gllobet"
     - label: "Github"
       icon: "fab fa-github"
       url: "https://gllobet.github.io"
@@ -93,9 +90,9 @@ minimal_mistakes_skin: "air"
 
 footer:
    links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gllobet"
+    - label: "E-mail" 
+      icon: "fas fa-envelope-square"
+      url: "mailto:llobet@cemfi.es"
     - label: "Github"
       icon: "fab fa-github"
       url: "https://gllobet.github.io"
