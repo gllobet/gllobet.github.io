@@ -57,7 +57,7 @@ author:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.2"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
